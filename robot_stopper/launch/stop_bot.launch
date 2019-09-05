@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<launch>
- <!-- The drive_bot node -->
-  <node name="stop_bot" type="stop_bot" pkg="robot_stopper" output="screen">
-  </node>
-
-</launch>
